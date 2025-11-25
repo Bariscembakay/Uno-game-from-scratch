@@ -1,0 +1,33 @@
+Goat's Game
+6
+2
+Gerçekaslan
+true
+Blue
+9
+[Red Reverse, Yellow Reverse, Wild Draw Four, Red 9, Wild Draw Four, Green 9, Red 3, Yellow 7, Red 7, Green Reverse, Red 2, Yellow 1, Yellow 7, Red 2, Yellow 9, Yellow 8, Yellow Reverse, Wild Wild, Blue 8, Green Reverse, Red 5, Yellow Skip, Blue 6, Red 9, Blue 2, Red 0, Red Skip, Red 3, Yellow 2, Blue 9, Blue 0, Green 3, Yellow 4, Red 8, Green 4, Red Skip, Red Draw Two, Yellow 1, Green 6, Wild Wild, Yellow 3, Blue 5, Yellow 3, Green Skip, Red 5, Blue Reverse, Red Draw Two, Red 6, Yellow Skip, Wild Wild, Red 8, Blue 3, Red 4, Yellow Draw Two, Blue Draw Two, Yellow 6, Blue 1, Blue 7, Blue 7, Green 8]
+[Blue 4, Blue 5, Blue 4, Blue 6, Blue 2, Wild Draw Four, Blue 9]
+Gerçekaslan
+[Green 7, Green 1, Green 1, Yellow 6, Yellow 4, Green 5, Blue Skip]
+false
+false
+Bot1
+[Blue 8, Red 1, Green 9, Green 3, Green Draw Two]
+false
+false
+Bot2
+[Green 8, Yellow Draw Two, Green Skip, Yellow 2, Green 6, Yellow 5]
+false
+false
+Bot3
+[Blue Draw Two, Blue 1, Red 4, Blue 3, Red 6, Yellow 9]
+false
+false
+Bot4
+[Green 4, Green 5, Yellow 8, Green 0, Yellow 0, Blue Skip]
+false
+false
+Bot5
+[Green Draw Two, Red Reverse, Wild Wild, Green 7, Wild Draw Four, Red 1, Green 2, Yellow 5, Red 7, Blue Reverse, Green 2]
+false
+false

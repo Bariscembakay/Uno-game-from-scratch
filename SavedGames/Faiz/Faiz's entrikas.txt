@@ -1,0 +1,41 @@
+Faiz's entrikas
+8
+4
+Faiz
+true
+Blue
+Draw Four
+[Yellow 9, Yellow 1, Blue Draw Two, Yellow Reverse, Yellow 0, Yellow 8, Green 7, Red 8, Red 3, Green 4, Yellow 4, Blue 7, Green 4, Wild Draw Four, Green 7, Red 0, Green 0, Green Skip, Green 9, Green Skip, Yellow Draw Two, Yellow 2, Green Reverse, Yellow 7, Blue 2, Yellow 8, Red Draw Two, Yellow 5, Blue 3, Yellow 4, Green Draw Two, Green 8, Yellow 1, Red Skip, Blue 5, Red 5, Wild Wild, Red 1, Yellow 6, Green 1, Green 5, Yellow Skip, Blue 4, Blue 2, Green 2]
+[Wild Draw Four, Red 2, Red 5, Yellow 5, Yellow 3, Wild Draw Four]
+Faiz
+[Blue Skip, Blue 9, Wild Draw Four, Blue 6, Green 2, Blue 4]
+false
+false
+Bot1
+[Green 3, Yellow 3, Red 4, Red 9, Red 3, Blue 6]
+false
+false
+Bot2
+[Blue Reverse, Blue 5, Blue Draw Two, Red 4, Blue 9, Red 9]
+false
+false
+Bot3
+[Red 6, Green 6, Wild Wild, Red 6, Red 2, Yellow 2, Green 1, Blue 0, Green Draw Two, Yellow Reverse, Blue 8]
+false
+false
+Bot4
+[Wild Wild, Red 1, Green 9, Green 5, Yellow Skip, Yellow 7, Blue 3]
+false
+false
+Bot5
+[Red 7, Red Skip, Green 6, Green 3, Blue Skip, Yellow Draw Two, Green Reverse]
+false
+false
+Bot6
+[Red 7, Blue 7, Red Reverse, Red 8, Yellow 6, Green 8, Red Reverse]
+false
+false
+Bot7
+[Wild Wild, Blue 8, Blue 1, Red Draw Two, Blue Reverse, Yellow 9, Blue 1]
+false
+false

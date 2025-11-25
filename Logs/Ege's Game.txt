@@ -1,0 +1,10 @@
+EgeAksoy played Blue 1
+Bot1 played Yellow 1
+Bot2 played Wild Wild
+Bot2 chosed Green as a valid color
+EgeAksoy played Wild Draw Four
+Bot1 drawn a card
+Bot1 drawn a card
+Bot1 drawn a card
+Bot1 drawn a card
+EgeAksoy chosed Wild as a valid color

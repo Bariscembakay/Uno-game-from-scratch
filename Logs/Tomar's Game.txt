@@ -1,0 +1,10 @@
+Tomar753 drawn a card
+Bot1 played Yellow Draw Two
+Bot2 drawn a card
+Bot2 drawn a card
+Bot3 drawn a card
+Bot4 drawn a card
+Bot5 played Green Draw Two
+Bot6 drawn a card
+Bot6 drawn a card
+Bot7 played Green 1

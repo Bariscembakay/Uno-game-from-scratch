@@ -1,0 +1,45 @@
+BCB's Game
+9
+5
+BCB
+true
+Red
+7
+[Red 0, Yellow Reverse, Blue 3, Blue 1, Blue 7, Blue 1, Green Draw Two, Yellow 9, Red 8, Green 0, Green 5, Green 9, Red 1, Yellow 5, Yellow 1, Blue 7, Red Draw Two, Blue 8, Green 1, Red 4, Green Skip, Yellow 8, Green 3, Green 6, Yellow 1, Yellow 7, Red 3, Green 8, Green 2, Green 6, Yellow 2, Blue 5, Wild Draw Four]
+[Blue Draw Two, Wild Draw Four, Blue 8, Blue Draw Two, Blue 2, Blue 6, Blue 2, Blue Skip, Blue Reverse, Green Reverse, Green 3, Green 7, Yellow 7, Yellow 6, Yellow 8, Green 8, Green 4, Green 1, Wild Wild, Wild Draw Four, Red 1, Red 7]
+BCB
+[Yellow Reverse, Yellow 0, Wild Wild, Red 2]
+false
+false
+Bot1
+[Wild Wild, Green Draw Two, Yellow 3, Red 7, Red 6, Blue 5, Wild Draw Four]
+false
+false
+Bot2
+[Blue 3, Blue 6, Red 4, Red 5, Blue Skip, Yellow 4, Green Skip, Red 9, Green 5]
+false
+false
+Bot3
+[Green 2, Green Reverse, Green 4, Green 9]
+false
+false
+Bot4
+[Yellow Draw Two, Red Reverse, Green 7, Red 9]
+false
+false
+Bot5
+[Blue 0, Yellow Skip, Red Reverse, Yellow 3, Red 5, Yellow Draw Two, Blue 9]
+false
+false
+Bot6
+[Red Draw Two, Wild Wild, Red Skip, Yellow 6, Yellow 2]
+false
+false
+Bot7
+[Red 3, Red 6, Blue 4, Red 8]
+false
+false
+Bot8
+[Red Skip, Red 2, Yellow 4, Yellow 9, Yellow 5, Blue Reverse, Blue 9, Blue 4, Yellow Skip]
+false
+false

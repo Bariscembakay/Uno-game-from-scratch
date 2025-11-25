@@ -1,0 +1,8 @@
+Faiz played Yellow 5
+Bot1 played Yellow 3
+Bot2 played Wild Draw Four
+Bot3 drawn a card
+Bot3 drawn a card
+Bot3 drawn a card
+Bot3 drawn a card
+Bot2 chosed Blue as a valid color

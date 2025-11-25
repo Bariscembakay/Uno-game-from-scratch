@@ -1,0 +1,37 @@
+Soaper's Game
+7
+6
+Himmet
+true
+Green
+Draw Four
+[Yellow Skip, Blue 5, Green 8, Red 2, Blue 2, Yellow Draw Two, Green 3, Green 4, Red Draw Two, Red 9, Green 4, Blue 7, Yellow 7, Yellow 1, Yellow 7, Yellow 3, Yellow Reverse, Yellow 5, Red 7, Red Skip, Red 3, Green 1, Yellow 8, Red 5, Red 1, Blue 9, Red Skip, Wild Wild, Red 7, Blue 4, Green 5, Green 8, Blue 3, Yellow 5, Yellow 2, Blue 6, Blue 0, Green Skip, Red 8, Blue 4, Yellow 4, Blue 1, Green 0, Green 9, Green Reverse, Red 6, Red 1, Green 5, Yellow 6, Green Reverse, Red 5, Red 4]
+[Blue 8, Blue 8, Blue 3, Blue Draw Two, Wild Draw Four]
+Himmet
+[Wild Wild, Red 0, Green 6, Yellow 9, Green Draw Two, Red 3]
+false
+false
+Bot1
+[Yellow 2, Yellow 9, Blue Skip, Green 1, Wild Draw Four, Blue 1]
+false
+false
+Bot2
+[Green Draw Two, Red 6, Red 2, Blue 5, Yellow 0, Yellow 6]
+false
+false
+Bot3
+[Red Reverse, Yellow Reverse, Wild Draw Four, Wild Wild, Red Reverse, Green 2, Blue Draw Two, Blue 6, Green 2]
+false
+false
+Bot4
+[Wild Draw Four, Green 3, Blue Reverse, Green 7, Blue Reverse, Blue 2]
+false
+false
+Bot5
+[Yellow 1, Green 6, Wild Wild, Red 4, Green 7, Yellow Skip, Blue 9, Blue Skip, Red Draw Two, Yellow 8, Red 8]
+false
+false
+Bot6
+[Blue 7, Red 9, Yellow Draw Two, Green Skip, Yellow 3, Green 9, Yellow 4]
+false
+false

@@ -1,0 +1,11 @@
+Himmet played Blue 8
+Bot1 played Blue 3
+Bot2 played Blue Draw Two
+Bot3 drawn a card
+Bot3 drawn a card
+Bot4 played Wild Draw Four
+Bot5 drawn a card
+Bot5 drawn a card
+Bot5 drawn a card
+Bot5 drawn a card
+Bot4 chosed Green as a valid color

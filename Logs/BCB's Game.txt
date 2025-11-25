@@ -1,0 +1,33 @@
+BCB played Blue Draw Two
+Bot1 drawn a card
+Bot1 drawn a card
+Bot2 played Blue 2
+Bot3 played Blue 6
+Bot4 played Blue 2
+Bot5 played Blue Skip
+Bot6 was skipped
+Bot7 played Blue Reverse
+Direction changed counterclockwise is new direction
+Bot6 played Green Reverse
+Direction changed clockwise is new direction
+Bot7 played Green 3
+Bot8 drawn a card
+BCB played Green 7
+Bot1 played Yellow 7
+Bot2 played Yellow 6
+Bot3 played Yellow 8
+Bot4 played Green 8
+Bot5 drawn a card
+Bot6 played Green 4
+Bot7 played Green 1
+Bot8 drawn a card
+BCB played Wild Wild
+BCB chosed Wild as a valid color
+Bot1 played Wild Draw Four
+Bot2 drawn a card
+Bot2 drawn a card
+Bot2 drawn a card
+Bot2 drawn a card
+Bot1 chosed Red as a valid color
+Bot3 played Red 1
+Bot4 played Red 7

@@ -1,0 +1,21 @@
+Ege's Game
+3
+2
+EgeAksoy
+true
+Yellow
+Draw Four
+[Green Skip, Green 8, Red 4, Green 4, Yellow 9, Yellow 5, Green Draw Two, Yellow 0, Wild Draw Four, Blue 8, Green 5, Blue 5, Red 2, Red 1, Yellow 2, Blue Reverse, Blue 7, Red 5, Blue Skip, Red 7, Yellow Draw Two, Red Skip, Green 7, Yellow Draw Two, Blue 5, Wild Wild, Red Reverse, Red Draw Two, Blue Reverse, Yellow 9, Red 8, Yellow 4, Blue Skip, Red 4, Blue 2, Yellow 3, Yellow 6, Red 1, Wild Wild, Red 6, Yellow 3, Green 9, Yellow Skip, Red 3, Red 9, Green 2, Yellow 1, Green 3, Blue 9, Wild Draw Four, Blue 4, Red 6, Red Skip, Red Reverse, Blue 9, Blue 2, Yellow 4, Red 8, Yellow 7, Blue 7, Yellow 8, Green 4, Blue 6, Yellow 7, Blue 6, Green Skip, Green 3, Green 8, Blue Draw Two, Yellow 6, Green 5, Green 1, Wild Draw Four, Yellow Reverse, Green 0, Green 6, Blue 4, Red 0, Yellow 2, Yellow 5, Green 6, Red 3]
+[Blue 3, Blue 1, Yellow 1, Wild Wild, Wild Draw Four]
+EgeAksoy
+[Yellow 8, Red Draw Two, Yellow Reverse, Yellow Skip, Red 2]
+false
+false
+Bot1
+[Green 2, Wild Wild, Green 1, Blue 1, Green Reverse, Red 5, Blue 0, Blue 8, Blue Draw Two, Red 7]
+false
+false
+Bot2
+[Green Draw Two, Green 7, Green Reverse, Red 9, Blue 3, Green 9]
+false
+false

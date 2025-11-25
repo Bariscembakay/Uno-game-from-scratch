@@ -1,0 +1,12 @@
+Gerçekaslan played Blue 5
+Bot1 played Blue 4
+Bot2 played Blue 6
+Bot3 played Blue 2
+Bot4 played Wild Draw Four
+Bot5 drawn a card
+Bot5 drawn a card
+Bot5 drawn a card
+Bot5 drawn a card
+Bot4 chosed Blue as a valid color
+Gerçekaslan drawn a card
+Bot1 played Blue 9
